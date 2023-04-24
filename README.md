@@ -13,7 +13,7 @@ Shopvilla has two major category on the product we deal on  which are clothes an
 
   
 ### Team Members
-Name and Website section
+Member's name and Website section
 
 * Sotonye Joe (Team Leader)
    * Section : Product Review Page
