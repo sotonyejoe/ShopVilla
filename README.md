@@ -47,4 +47,4 @@ Name and Website section
    * Logistics page 
   
 <!-- ![ShopVilla](shopvillalogoimg/shopvillalogo-icon.svg) -->
-<img src="shopvillalogoimg/shopvillalogo-icon.svg" alt="Shopvilla Logo" width="300" height="300"></a>
+<img src="shopvillalogoimg/shopvillalogo-icon.svg" alt="Shopvilla Logo" width="400" height="400"></a>
