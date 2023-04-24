@@ -46,4 +46,5 @@ Name and Website section
 * Edwin Michael
    * Logistics page 
   
-![ShopVilla](shopvillalogoimg/shopvillalogo-icon.svg)
+<!-- ![ShopVilla](shopvillalogoimg/shopvillalogo-icon.svg) -->
+<img src="shopvillalogoimg/shopvillalogo-icon.svg" alt="Shopvilla Logo" width="300" height="300"></a>
