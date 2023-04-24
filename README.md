@@ -10,29 +10,7 @@ At Shopvilla, we believe that shopping should be hassle free and enjoyable exper
 ### Category
 Shopvilla has two major category on the product we deal on  which are clothes and shoes for both gender.
 
-### Layout
-Design of the website will be created on the following width:
-* Mobile : 375px
-* Desktop: 1440px
 
-### Color
-
-#### Primary Color 
-* body: #f6f6f6
-* Card: #fefefe
-
-#### Accent
-* green: #00743F
-* Yellow: #F1A104
-* Red:    #dc143c
-* Blue: #92bbff
-* pink: #f29ec8
-
-#### Typography
-* Heading, Navigation, and footer : [Roboto](https://fonts.google.com/specimen/Roboto)
-  * font weight: 400, 700
-* Body: [Open sans](https://fonts.google.com/specimen/Open+Sans)
-  * font weight: 400, 600 
   
 ### Team Members
 Name and Website section
