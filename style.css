@@ -630,6 +630,11 @@ footer .copyright{
     height: auto;
     margin-bottom: 30px;
   } 
+  #about-head h2 {
+    font-size: 2em;
+    font-weight: 700;
+    color: var(--blackish-green);
+  }
 }
 
 @media (max-width: 477px) {
@@ -678,5 +683,12 @@ footer .copyright{
   }
   #newsletter .form {
     width: 100%;
+  }
+  #about-app .video video {
+    width: 130%;
+    height: 130%;
+  }
+  .about-header p {
+    font-size: 1em;
   }
 }
